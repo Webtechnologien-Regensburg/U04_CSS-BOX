@@ -41,11 +41,15 @@ durchführen. Nutzen Sie den auf der Webseite integrierten interaktiven Editor, 
 
 Bauen Sie in dieser Aufgabe das vorgegebene HTML-Dokument nach und verändern Sie die Positionen der einzelnen div-Elemente mit Hilfe der _position_ Eigenschaften von CSS. Erstellen Sie fünf CSS-Dateien für Ihr HTML-Dokument. Sie können sich am Beispiel der Vorlesung orientieren.
 
-- [\textcolor{blue}{Hier}](https://homepages.uni-regensburg.de/~kom13409/WTSS2020/U04_CSS/index.html) finden Sie das Startdesign der HTML-Seite
-- [\textcolor{blue}{Hier}](https://homepages.uni-regensburg.de/~kom13409/WTSS2020/U04_CSS/indexOne.html) finden Sie Variante 1
-- [\textcolor{blue}{Hier}](https://homepages.uni-regensburg.de/~kom13409/WTSS2020/U04_CSS/indexTwo.html) finden Sie Variante 2
-- [\textcolor{blue}{Hier}](https://homepages.uni-regensburg.de/~kom13409/WTSS2020/U04_CSS/indexThree.html) finden Sie Variante 3
-- [\textcolor{blue}{Hier}](https://homepages.uni-regensburg.de/~kom13409/WTSS2020/U04_CSS/indexFour.html) finden Sie Variante 4
+![Das ist das Startdesign der HTML-Seite](Start.PNG){  }
+
+![Variante 1](inline.PNG){  }
+
+![Variante 2](ur.PNG){  }
+
+![Variante 3](ssr.PNG){  }
+
+![Variante 4](u300.PNG){  }
 
 
 
