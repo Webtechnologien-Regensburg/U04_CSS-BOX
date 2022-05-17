@@ -39,7 +39,7 @@ durchführen. Nutzen Sie den auf der Webseite integrierten interaktiven Editor, 
 
 ## Aufgabe 2: Element-Positionierung in CSS
 
-Bauen Sie in dieser Aufgabe das vorgegebene HTML-Dokument nach und verändern Sie die Positionen der einzelnen div-Elemente mit Hilfe der _position_ Eigenschaften von CSS. Erstellen Sie fünf CSS-Dateien für Ihr HTML-Dokument. Sie können sich am Beispiel der Vorlesung orientieren.
+Bauen Sie in dieser Aufgabe das vorgegebene HTML-Dokument nach (siehe unten) und verändern Sie die Positionen der einzelnen div-Elemente mit Hilfe der _position_ Eigenschaften von CSS. Erstellen Sie fünf CSS-Dateien für Ihr HTML-Dokument. Sie können sich am Beispiel der Vorlesung orientieren.
 
 ![Das ist das Startdesign der HTML-Seite](Start.PNG){  }
 
