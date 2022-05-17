@@ -1,6 +1,6 @@
 ---
 title: CSS Box Model
-author: Jakob Fehle
+author: Martin Kocur
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -57,13 +57,13 @@ Weitere Informationen zur _position_ Eigenschaft in CSS erhalten Sie [\textcolor
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 13.05.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 23.05.2022 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 2: Ihre 5 CSS-Dateien  (Eine CSS für das Startdesign, Vier CSS Dateien für jede Variante)
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS22“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS21_4_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS22_4_Max_Mustermann.zip**
 
